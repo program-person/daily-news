@@ -102,24 +102,22 @@
 </main>
 
 <script>
-  // --- データ読み込み ---
-  // dataフォルダにある全JSONを読み込んでサイドバーと記事一覧を生成する
-  const DATA_FILES = ['2026-04-28.json'];  // ← あとでCoworkが自動更新する部分
-
   // カテゴリの表示順と名前の定義
   const CAT_ORDER = ['tech', 'jp', 'world'];
   const CAT_LABEL = { tech: 'Tech', jp: '国内', world: '海外' };
   const CAT_BADGE = { tech: 'badge-tech', jp: 'badge-jp', world: 'badge-world' };
 
-  let allData = {};  // { "2026-04-27": [...記事配列] }
+  let allData = {};  // { "2026-04-28": [...記事配列] }
 
-  // JSONファイルを全部fetch（取得）してallDataに格納する
+  // manifest.jsonを読んでファイル一覧を取得する
+  // こうすることでCoworkはmanifest.jsonを更新するだけでOKになる
   async function loadAll() {
-    for (const file of DATA_FILES) {
+    const manifest = await fetch('manifest.json').then(r => r.json());
+    for (const file of manifest.files) {
       try {
         const res = await fetch(`data/${file}`);
         const json = await res.json();
-        // ファイル名から日付キーを作る（例: 2026-04-27.json → 2026-04-27）
+        // ファイル名から日付キーを作る（例: 2026-04-28.json → 2026-04-28）
         const key = file.replace('.json', '');
         allData[key] = json.articles;
       } catch(e) {
@@ -148,7 +146,7 @@
     if (keys.length > 0) renderArticles(keys[0]);
   }
 
-  // 日付キーを読みやすい形式に変換（例: 2026-04-27 → 4月27日）
+  // 日付キーを読みやすい形式に変換（例: 2026-04-28 → 4月28日）
   function formatDate(key) {
     const [, m, d] = key.split('-');
     return `${parseInt(m)}月${parseInt(d)}日`;

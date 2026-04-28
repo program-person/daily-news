@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "title": "Anthropic、Claude 5のトレーニング完了を発表",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "time": "2時間前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "AnthropicはClaude 5のトレーニングが完了したと発表した。前世代と比較して推論能力が大幅に向上しており、特に数学・コーディング・多段階タスクでの性能改善が報告されている。"
+    },
+    {
+      "title": "経産省、生成AI活用の新ガイドライン策定へ",
+      "source": "日経新聞",
+      "url": "https://nikkei.com",
+      "time": "3時間前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "経済産業省は企業における生成AI活用を推進するための新ガイドラインを今夏に策定する方針を明らかにした。著作権・個人情報保護・セキュリティの3領域を中心に整備される予定。"
+    },
+    {
+      "title": "EU、AIアクトの第2フェーズ施行を開始",
+      "source": "Reuters",
+      "url": "https://reuters.com",
+      "time": "1時間前",
+      "category": "world",
+      "tag": "new",
+      "summary": "EU AI Actの第2フェーズが本日より施行され、汎用AIモデルを提供する企業への透明性義務が適用開始となった。OpenAI・Google・Anthropicなどが対象で、トレーニングデータの概要開示が求められる。"
+    }
+  ]
+}

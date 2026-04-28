@@ -51,6 +51,40 @@
 
     /* 空状態 */
     #empty { color: #aaa; font-size: 14px; margin-top: 40px; text-align: center; }
+    /* スマホ対応（画面幅600px以下） */
+@media (max-width: 600px) {
+  body {
+    flex-direction: column; /* 横並び→縦並びに切り替え */
+    height: auto;
+    min-height: 100vh;
+  }
+  #sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e5e5e0;
+    padding: 0;
+    display: flex;
+    overflow-x: auto; /* 日付が多くなっても横スクロールできる */
+    -webkit-overflow-scrolling: touch; /* iOSでの慣性スクロール有効化 */
+  }
+  #sidebar h1 {
+    display: none; /* 「アーカイブ」の文字は狭いので非表示 */
+  }
+  .day-btn {
+    flex-shrink: 0; /* タブが縮まないようにする */
+    padding: 10px 14px;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap; /* 日付が改行されないようにする */
+  }
+  .day-btn.active {
+    background: none;
+    border-bottom-color: #2563eb; /* 選択中タブに下線 */
+    color: #2563eb;
+  }
+  #main {
+    padding: 16px;
+  }
+}
   </style>
 </head>
 <body>

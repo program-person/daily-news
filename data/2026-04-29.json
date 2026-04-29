@@ -1,1 +1,137 @@
-﻿{"articles": [{"title": "Claude Opus 4.7発表、Cursorが500億円調達など――2026年4月第3週AI主要ニュース", "source": "bizfreak.co.jp", "url": "https://bizfreak.co.jp/blog/mccon2m1v", "time": "8日前", "category": "tech", "tag": "new", "summary": "2026年4月第3週、AnthropicがClaude Opus 4.7を発表。AIコードエディタCursorが約500億円の資金調達を実施し、CerebrasがIPO申請するなど、AI業界で複数の重要ニュースが相次いだ。"}, {"title": "AnthropicのAI「Mythos（ミトス）」――セキュリティリスクで一般公開を制限", "source": "Bloomberg Japan", "url": "https://www.bloomberg.com/jp/news/articles/2026-04-13/TDAMN5KGCTH200", "time": "16日前", "category": "tech", "tag": "new", "summary": "Anthropicの最新モデル「Mythos」は脆弱性発見能力が極めて高く、悪用されれば重要インフラを脅かす可能性があるため、限られた企業・機関にのみアクセスが許可されている。米政府機関への提供も進む。"}, {"title": "AmazonがAnthropicに50億ドル追加投資――AWS、10年で1000億ドル超のAIインフラ投資へ", "source": "LLM Stats / AI News", "url": "https://llm-stats.com/ai-news", "time": "9日前", "category": "tech", "tag": "new", "summary": "4月20日、AmazonがAnthropicへ50億ドルの追加出資を発表。今後10年間でAWS関連AIインフラに1000億ドル超を投じる計画も明らかになり、AI推論向けカスタムチップの共同開発競争も激化している。"}, {"title": "脳型ナノ電子チップ、AI消費電力を最大70%削減――ハフニウム酸化物で記憶と処理を同時実現", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260422044633.htm", "time": "7日前", "category": "tech", "tag": "new", "summary": "研究者がハフニウム酸化物を使った新型ナノ電子デバイスを開発。ニューロンのように情報の処理と記憶を同時に行い、従来比最大70%のAIエネルギー削減が可能とされる。次世代AIチップへの応用が期待される。"}, {"title": "医学書院・NTT・NTTドコモビジネス、純国産医療AI情報プラットフォームを共同開発", "source": "NTTドコモビジネス", "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0416_2.html", "time": "13日前", "category": "tech", "tag": "new", "summary": "医学書院・NTT・NTTドコモビジネスの3社が純国産の医療AI情報プラットフォームの共同開発に合意。2026年度内に商用展開を開始し、将来的には年間300億円規模の売上をめざすと発表した。"}, {"title": "日銀、政策金利0.75%に据え置き――追加利上げを見送り", "source": "日テレNEWS", "url": "https://www.youtube.com/watch?v=H3VF9rDdHV8", "time": "1日前", "category": "jp", "tag": "new", "summary": "日本銀行は4月28日の金融政策決定会合で、政策金利を0.75%に据え置くことを決定した。植田総裁は会見で追加利上げを当面見送る姿勢を示し、世界経済の不確実性を慎重に見極める方針を強調した。"}, {"title": "日銀、2026年度CPI上昇率見通しを2.8%に上方修正――前回比0.9ポイント引き上げ", "source": "日本経済新聞", "url": "https://www.nikkei.com/economy/economy/", "time": "1日前", "category": "jp", "tag": "new", "summary": "日銀は4月28日、2026年度の生鮮食品を除く消費者物価指数（CPI）上昇率の見通しを2.8%と発表。1月時点の1.9%から0.9ポイント大幅に引き上げ、物価上昇圧力の根強さが改めて示された。"}, {"title": "高市首相、ベトナムでエネルギー・AI協力強化を表明――外交方針を発表", "source": "時事ドットコム", "url": "https://www.jiji.com/jc/archives?g=pol_archive_0", "time": "1日前", "category": "jp", "tag": "new", "summary": "高市早苗首相はベトナム訪問中に外交方針を発表し、エネルギー安全保障やAI分野での協力強化を表明。安保3文書の改定に関連し「総合的な国力の強化が最重要課題」との認識も示した。"}, {"title": "春の褒章：りくりゅうペアら631個人・団体が紫綬褒章受章", "source": "時事ドットコム", "url": "https://www.jiji.com/jc/archives?g=soc_archive_0", "time": "1日前", "category": "jp", "tag": "new", "summary": "2026年春の褒章が発表され、フィギュアスケートの三浦璃来・木原龍一ペア（りくりゅう）が紫綬褒章を受章。俳優の吉田鋼太郎さんらも含む631個人・団体が各分野での功績を称えられた。"}, {"title": "健康保険法改正案、衆院通過へ――高市首相が見通し示す", "source": "NHKニュース", "url": "https://news.web.nhk/newsweb/genre/politics", "time": "1日前", "category": "jp", "tag": "new", "summary": "高市首相は健康保険法などを含む改正案が4月28日に衆院を通過する見通しを表明。医療費の負担見直しや保険制度の持続可能性強化を盛り込んだ法案が次のステップへと進む。"}, {"title": "米・イラン停戦交渉、パキスタン調停でも合意に至らず――トランプ大統領が提案拒否", "source": "Washington Post", "url": "https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks/", "time": "4日前", "category": "world", "tag": "new", "summary": "パキスタンのイスラマバードで行われた米・イラン停戦交渉は合意なく終了。ホルムズ海峡再開を柱とするイランの提案をトランプ大統領が拒否し、核問題先送りに難色を示した。背後では激しい外交折衝が続く。"}, {"title": "イラン外相がロシア訪問、プーチン大統領がイランへの支持を表明", "source": "CNN", "url": "https://www.cnn.com/2026/04/27/world/live-news/iran-war-trump-israel-lebanon", "time": "2日前", "category": "world", "tag": "update", "summary": "イランのアラグチ外相がロシアを訪問しプーチン大統領と会談。プーチン氏はイランへの政治的支持を表明し、対米交渉での外交的後ろ盾を求めるイランに対し、地政学的な連携姿勢を示した。"}, {"title": "EU、ウクライナ支援に1060億ドルのローン承認――数か月間の政治的膠着を打破", "source": "NPR", "url": "https://www.npr.org/sections/world/", "time": "3日前", "category": "world", "tag": "new", "summary": "欧州連合（EU）は数か月に及ぶ政治的対立を経て、ウクライナへの2年間の経済・軍事支援として1060億ドル（約15兆円）のローンパッケージを承認。ウクライナの財政・防衛維持に不可欠な措置となる。"}, {"title": "マリで大規模協調攻撃――首都・主要都市に爆発と銃声、サヘル地域の治安悪化が深刻化", "source": "Al Jazeera", "url": "https://www.aljazeera.com/", "time": "3日前", "category": "world", "tag": "new", "summary": "西アフリカのマリで、首都バマコを含む複数の主要都市に武装勢力による大規模かつ協調的な攻撃が発生。近年最大規模の攻撃とされ、サヘル地域全体の治安悪化と隣国への影響が懸念されている。"}, {"title": "コロンビア南西部で市民・軍基地への攻撃相次ぐ――5月大統領選を前に治安悪化", "source": "NPR", "url": "https://www.npr.org/sections/world/", "time": "3日前", "category": "world", "tag": "new", "summary": "コロンビア南西部で武装グループによる市民への攻撃や軍基地への襲撃が相次いでいる。5月に予定される大統領選を前に治安情勢が急速に悪化しており、国際社会も懸念を強めている。"}]}
+{"articles": [
+  {
+    "title": "OpenAIがGPT-5.5を発表——AIスーパーアプリへの大きな一歩",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "time": "6日前",
+    "category": "tech",
+    "tag": "update",
+    "summary": "OpenAIは4月23日、最新モデル「GPT-5.5」を発表した。ChatGPT・コーディングツール・ブラウザ機能を統合した「AIスーパーアプリ」構想の中核となるモデルで、Plus・Pro・Business・Enterpriseユーザーへの展開が開始。APIでは入力100万トークンあたり5ドルで提供される。"
+  },
+  {
+    "title": "スタンフォードHAI「2026年AIインデックス」——生成AI普及率が53%、民間投資は2倍超に",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+    "time": "数日前",
+    "category": "tech",
+    "tag": "update",
+    "summary": "スタンフォード大学HAIが2026年版AIインデックスを公開。生成AI世界普及率は53%でPC・インターネットより速いペースで拡大し、組織導入率は88%に達した。世界のAI民間投資は2025年に3,447億ドルと前年比倍増。一方でAIガバナンスの整備が技術進歩に追いついていない点を課題として指摘。"
+  },
+  {
+    "title": "2026年に注目すべきAIの10大トレンド——自律型エージェントが次世代の主役に",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "time": "8日前",
+    "category": "tech",
+    "tag": "update",
+    "summary": "MITテクノロジーレビューが2026年の重要AIトレンド10項目を特集。チャットボットやコパイロットを超えた「自律実行システム」の台頭、マルチエージェント協調、メモリ圧縮などの新インフラが注目されている。複数のAIエージェントが協力して複雑な目標を達成する時代が本格的に到来しつつある。"
+  },
+  {
+    "title": "AI経済効果の75%をわずか20%の企業が独占——PwC 2026年調査",
+    "source": "PwC",
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html",
+    "time": "数日前",
+    "category": "tech",
+    "tag": "new",
+    "summary": "PwCの2026年AI業績調査によると、AIがもたらす経済的利益の75%がわずか20%の企業に集中していることが判明。トップ企業は「生産性向上」だけでなく「成長戦略」としてAIを活用していることが特徴で、AI活用の二極化が世界規模で加速していることが浮き彫りになった。"
+  },
+  {
+    "title": "AIの現状をグラフで読み解く——コーディング性能は満点近く、しかし意外な弱点も",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "time": "16日前",
+    "category": "tech",
+    "tag": "update",
+    "summary": "MITテクノロジーレビューが最新AIの状態をデータで可視化。コーディングベンチマークの性能は1年でほぼ満点に達し、博士レベルの科学問題でも人間を超えた。一方、金メダル級の数学能力を持つモデルがアナログ時計の読み取りを50%しか正解できないなど、AIの能力の偏りが明らかになっている。"
+  },
+  {
+    "title": "2026年GW旅行者数2,447万人見込み——総消費額は1兆2,876億円の見通し",
+    "source": "JTBグループ",
+    "url": "https://www.jtbcorp.jp/jp/newsroom/2026/04/02_jtb_2026gw-travel-trend-outlook.html",
+    "time": "27日前",
+    "category": "jp",
+    "tag": "new",
+    "summary": "JTBが2026年ゴールデンウィーク（4月25日〜5月7日）の旅行動向を発表。総旅行者数は前年比101.9%の2,447万人、消費額は1兆2,876億円と見込む。カレンダー配置が良く、有給と組み合わせれば最大8連休が可能。旅行意欲は前年比2.5ポイント増の23.4%。海外旅行者数も57.2万人と増加傾向。"
+  },
+  {
+    "title": "ホルムズ海峡封鎖と家計影響——ガソリン・電気代・食品など幅広く波及",
+    "source": "時事ドットコム",
+    "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+    "time": "数週間前",
+    "category": "jp",
+    "tag": "update",
+    "summary": "時事ドットコムがホルムズ海峡封鎖による日本の家計への影響を特集。原油・LNG輸入の約74%が同海峡経由という高依存度の日本では、ガソリン・電気代・食品価格など幅広い分野に影響が出ている。補助金終了も重なり、国民生活への負担が一段と拡大しているとして注目されている。"
+  },
+  {
+    "title": "ホルムズ封鎖が変える世界地図——日本のエネルギー投資戦略に転換迫る",
+    "source": "大和総研",
+    "url": "https://www.dir.co.jp/report/column/20260417_012414.html",
+    "time": "12日前",
+    "category": "jp",
+    "tag": "update",
+    "summary": "大和総研がホルムズ海峡封鎖を契機にエネルギー地政学の変容を分析。中東依存度が高い日本には、再生可能エネルギーや電力インフラへの「成長投資」を加速させる必要があると指摘。エネルギー安全保障と脱炭素の両立という政策課題が改めて問われていると論じている。"
+  },
+  {
+    "title": "楽天トラベルがGW旅行動向を発表——国内・海外ともに前年超え、新潟が人気1位に",
+    "source": "楽天グループ",
+    "url": "https://corp.rakuten.co.jp/news/press/2026/0402_01.html",
+    "time": "27日前",
+    "category": "jp",
+    "tag": "new",
+    "summary": "楽天トラベルが2026年GWの旅行予約動向を公表。国内・海外ともに前年を上回る予約数を記録。人気上昇1位は新潟県（前年同期比1.4倍）、2位は長崎県、3位は富山県と、SNS話題スポットや歴史資源を持つ地方が人気を集めている。インバウンド需要も引き続き好調な傾向が見られる。"
+  },
+  {
+    "title": "ホルムズ危機で日本の電気料金はどう変わるか——ISEPが詳細分析",
+    "source": "ISEP 環境エネルギー政策研究所",
+    "url": "https://www.isep.or.jp/archives/library/15471",
+    "time": "数週間前",
+    "category": "jp",
+    "tag": "update",
+    "summary": "ISEPがホルムズ海峡危機による日本の電気料金への影響を分析。LNG輸入コスト高騰が電力料金に直接転嫁される構造を解説し、補助金廃止後の負担増を試算。脱炭素とエネルギー安全保障の両立という政策課題が浮き彫りになっており、省エネ加速と電力多様化が急務と指摘する。"
+  },
+  {
+    "title": "チャールズ英国王が米議会で史上2例目の演説——米英の「特別な関係」を強調",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
+    "time": "1日前",
+    "category": "world",
+    "tag": "new",
+    "summary": "チャールズ3世英国王が4月28日、米国議会両院合同会議で演説を行った。米英の歴史的絆と「特別な関係」を訴え、多国間主義の重要性や気候変動への警戒を暗示的にトランプ政権へ向けて発信。ホワイトハウスで国賓晩餐会も開催され、英国王による議会演説は史上2例目となった。"
+  },
+  {
+    "title": "チャールズ英国王の議会演説が持つ外交的意味——米英関係の温度差を背景に",
+    "source": "CNN",
+    "url": "https://www.cnn.com/2026/04/28/uk/king-charles-address-congress-intl",
+    "time": "1日前",
+    "category": "world",
+    "tag": "new",
+    "summary": "CNNがチャールズ英国王の米議会演説を詳報。20分の演説で米英の共通の歴史を軸に団結を呼びかけ、国際機関の重要性や温暖化への懸念も表明。イランとの戦争をめぐる米英の見解の差を背景に、外交的なメッセージが込められた演説として各国から注目を集めた。"
+  },
+  {
+    "title": "イランの最新停戦提案の中身——ホルムズ優先・核問題先送り案に米国は懐疑的",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded",
+    "time": "1日前",
+    "category": "world",
+    "tag": "update",
+    "summary": "アルジャジーラがイランの最新停戦提案を詳報。イランはホルムズ海峡の再開通を優先し、核問題を後回しにする案を提示。米国はトランプ政権が求める「核廃棄・ミサイル制限・制裁緩和」のパッケージに対するイランの明確な回答を要求しており、依然として懐疑的な立場を維持している。"
+  },
+  {
+    "title": "ホルムズ海峡問題が停滞——米・イランの二重封鎖で停戦交渉が難航",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
+    "time": "1日前",
+    "category": "world",
+    "tag": "update",
+    "summary": "米国がイランを海上封鎖しイランが湾岸を封鎖する「二重封鎖」状態が継続。トランプ大統領はパキスタンの仲介でイランに3〜5日以内の交渉参加を求めた。ホルムズ海峡封鎖の長期化で原油価格は高止まりし、GWを控えた日本を含む世界経済への打撃が続いている。"
+  },
+  {
+    "title": "国連が停戦延長を評価——ホルムズ海峡に外交的解決の可能性",
+    "source": "UN News",
+    "url": "https://news.un.org/en/story/2026/04/1167354",
+    "time": "数日前",
+    "category": "world",
+    "tag": "update",
+    "summary": "国連は停戦延長が外交的解決への扉を開いたと評価する声明を発表。ホルムズ海峡問題をめぐる緊張は続くが、パキスタン調停による交渉継続に期待感が示された。国連事務総長は全当事者に対し、経済・人道的影響を最小化するため対話継続と海峡の即時開通を求めた。"
+  }
+]}

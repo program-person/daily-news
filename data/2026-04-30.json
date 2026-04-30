@@ -1,0 +1,139 @@
+{
+  "articles": [
+    {
+      "title": "DeepSeek、新フラッグシップ「V4」プレビュー公開―フロンティアモデルに迫る性能",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "time": "6日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "中国AI企業DeepSeekがV4シリーズのプレビューを公開。V4-Pro（1.6兆パラメータ）とV4-Flash（2840億パラメータ）の2モデルを展開し、最大100万トークンのコンテキスト長に対応。コーディングや推論ベンチマークでOpenAIやAnthropicの最先端モデルに匹敵する性能を示しており、オープンソースとして提供される。"
+    },
+    {
+      "title": "Google、Anthropicの拒否を経て国防総省にAIモデルを提供する機密契約を締結",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "Googleは国防総省（Pentagon）と機密分類ネットワークへのGemini AIシステム提供を認める契約を4月28日に締結した。Anthropicが安全性の懸念から同様の契約を拒否した後に実現。契約ではAIを「すべての合法的政府目的」に利用可能とし、Google社員950人が公開書簡で反対の意思を示している。"
+    },
+    {
+      "title": "OpenAI、2026年後半のIPO申請を内部目標に―年間収益250億ドル超・評価額1兆ドル目指す",
+      "source": "IndexBox",
+      "url": "https://www.indexbox.io/blog/openai-targets-q4-2026-ipo-with-1-trillion-valuation-goal/",
+      "time": "4日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "OpenAIは2026年後半のIPO申請を内部目標に設定し、企業評価額1兆ドルを目標としているという。年間収益は250億ドルを超え毎月20億ドルを計上する一方、CFOは年内上場困難と示唆。2026年の損失は140億ドルにのぼる見通しで、黒字化は2030年まで見込めないとされる。"
+    },
+    {
+      "title": "2026年4月の最大AIトレンド：コパイロット時代が終わり「自律実行システム」の時代へ",
+      "source": "Medium",
+      "url": "https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f",
+      "time": "5日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年4月のAI分析によると、チャットボットやコパイロットの時代が終焉し、完全自律的な実行システムへの移行が加速している。マルチエージェント基盤やAI専用インフラ市場が拡大し、AI経済的恩恵は上位20%の企業に集中する傾向も浮き彫りになっている。"
+    },
+    {
+      "title": "AnthropicのMCP9700万インストール突破、MS・OpenAI独占解消後にAWSが追随",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/04/28/top-tech-news-today-april-28-2026/",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年4月28日のテクノロジーニュース速報。AnthropicのModel Context Protocol（MCP）が3月に9700万インストールを達成し、主要AIプロバイダー全社がMCP対応ツールを提供。MicrosoftとOpenAIが独占契約を解消した翌日、AWSがBedrockプラットフォームで共同開発エージェントサービスを含むOpenAI製品3種を追加発表した。"
+    },
+    {
+      "title": "ホルムズ海峡危機・実務リスク最新情報（4月28日更新）—通航95%減が継続",
+      "source": "Global SCM",
+      "url": "https://global-scm.com/blog/?p=6564",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "ホルムズ海峡の通航が戦前比約95%減の状態が継続。4月28日時点で短期的な正常化の見通しは立っていない。米国とイランの双方による「二重封鎖」が続き、日本の石油化学・自動車・食品産業のサプライチェーンへの波及が拡大している。"
+    },
+    {
+      "title": "ホルムズ海峡混乱で供給ショック、需要急減につながる瀬戸際—Bloomberg",
+      "source": "Bloomberg Japan",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-04-25/TE1S24T96OSG00",
+      "time": "5日前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "ホルムズ海峡の封鎖長期化で世界的な供給ショックから需要急減へ連鎖するリスクが高まっているとBloombergが報じた。ブレント原油は開戦前の約74ドルから105ドル前後に上昇し約40%高。日本の貿易赤字拡大と円安が家計の実質購買力をさらに圧迫している。"
+    },
+    {
+      "title": "オイルショック再来か？ホルムズ海峡緊張が日本の家計に与える影響を徹底解説",
+      "source": "MONEYIZM",
+      "url": "https://www.all-senmonka.jp/moneyizm/news/314447/",
+      "time": "2週間前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "三菱UFJ銀行試算では原油価格が平時比33%上昇した場合、日本の実質GDP成長率を0.1〜0.2ポイント押し下げ、消費者物価を0.2〜0.4ポイント以上押し上げる可能性。ガソリン・電気・ガス料金の高騰に加え、ナフサや肥料原料の供給不安が食料品価格にも波及している。"
+    },
+    {
+      "title": "日本と中東の貿易構造とホルムズ海峡封鎖の影響—ジェトロが分析",
+      "source": "ジェトロ（JETRO）",
+      "url": "https://www.jetro.go.jp/biz/areareports/2026/190b55f892c6980c.html",
+      "time": "2週間前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "ジェトロが日本と中東との貿易構造及びホルムズ海峡封鎖による影響を分析。日本の原油輸入の約9割が中東依存であり、封鎖の長期化はエネルギー安全保障上の深刻なリスク。代替ルート活用や備蓄取り崩しで対応中だが、長期化に備えた政策的対応が急務とされている。"
+    },
+    {
+      "title": "小泉防衛相、韓国国防相とオンライン会談—日米韓3か国での協力継続を確認",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095141000",
+      "time": "3週間前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "小泉進次郎防衛大臣は韓国の安圭伯国防相とオンラインで会談し、北朝鮮による弾道ミサイル発射を含む地域情勢について協議。日韓両国および日米韓3か国での安全保障協力を継続することで合意した。毎年相互訪問して会談を実施することも申し合わせた。"
+    },
+    {
+      "title": "韓国・尹錫悦前大統領、控訴審で禁錮7年の判決—職権乱用と逮捕妨害が認定",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon",
+      "time": "1日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "韓国ソウル高裁は4月29日、尹錫悦前大統領に禁錮7年の判決を言い渡した。2024年12月の戒厳令宣布に絡む逮捕妨害と閣議開催の回避が認定された。内乱罪による既存の終身刑に加算される形で、弁護団は最高裁への上告方針を示している。"
+    },
+    {
+      "title": "米イラン「二重封鎖」継続—トランプ「降参しろ」と圧力、停戦交渉は膠着状態",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/29/world/live-news/iran-war-peace-proposal-trump",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "トランプ大統領はイランに対し「降参を宣言するまで海上封鎖を維持する」と強硬姿勢を継続。UAEがOPECを脱退するなど中東情勢は複雑化しており、米イラン間の要求の隔たりは大きく和平交渉は停滞。ホルムズ海峡の通航遮断が続いている。"
+    },
+    {
+      "title": "トランプ大統領がイランとの停戦を無期限延長—「政府内部の深刻な分裂」を理由に",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html",
+      "time": "9日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "トランプ大統領は4月21日、イランとの停戦を無期限延長すると発表。イラン国内の「深刻な分裂」を理由に挙げた。プーチン露大統領との1時間半の電話会談でもこの決定が支持された。一方、パキスタンでの交渉は米側が突然キャンセルし、本格的な和平への道筋は不透明だ。"
+    },
+    {
+      "title": "チェルノブイリ事故40周年国際会議で共同声明—原子力安全とウクライナ支援を確認",
+      "source": "カナダ外務省",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/04/joint-statement-of-the-international-conference-on-chornobyl.html",
+      "time": "数日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "チェルノブイリ原発事故から40周年を記念する国際会議がカナダ主導で開催され、各国が共同声明を発表した。声明では原子力安全の重要性、ウクライナへの継続的支援、核施設の平和的運用に向けた国際協力の強化などが盛り込まれた。"
+    },
+    {
+      "title": "停戦延長後の米イラン関係をCFRが分析—核合意と包括的和平が最大課題",
+      "source": "Council on Foreign Relations (CFR)",
+      "url": "https://www.cfr.org/articles/trump-extended-the-iran-war-ceasefire-now-what",
+      "time": "9日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米外交問題評議会（CFR）は米国によるイラン停戦延長の意義と今後の展開を分析。最大の課題はイランの核プログラム終了、ミサイル制限、ホルムズ海峡再開などを含む包括合意の締結であり、イラン側は制裁解除を求め両国間の要求に大きな隔たりがあると指摘した。"
+    }
+  ]
+}

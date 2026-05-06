@@ -1,0 +1,121 @@
+{
+  "articles": [
+    {
+      "title": "MicrosoftとGoogle・xAIが米政府によるAI事前評価に合意",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "MicrosoftとGoogle DeepMind、xAIが米商務省傘下の機関にAIモデルのリリース前評価を許可する契約を締結した。すでに同様の契約を持つOpenAIとAnthropicに加わる形で、トランプ政権のAIアクションプランへの整合性を図る取り組みの一環。"
+    },
+    {
+      "title": "Anthropic、金融業界向けAIエージェント群とClaude Opus 4.7を発表",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "AnthropicがNYの金融サービス向けイベントで最新モデル「Claude Opus 4.7」を発表し、世界最大の銀行向け事前構築AIエージェント群をリリース。Microsoft 365との完全統合やMoody'sとのデータ連携も発表し、金融分野での本格展開を加速する。"
+    },
+    {
+      "title": "Anthropic、Googleと2000億ドル規模のクラウド・チップ契約を締結",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
+      "time": "1日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "AnthropicがGoogle Cloudと複数ギガワット規模のTPUコンピュート容量を確保する2000億ドル超の大型契約を締結した。2027年から順次稼働予定で、Googleへの技術的依存が深まるAnthropicのインフラ戦略として注目される。"
+    },
+    {
+      "title": "国防総省、Anthropicを除く8社のビッグテックとAI契約を締結",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
+      "time": "6日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "米国防総省はAnthropicを除く8つの主要テック企業とAI活用契約を締結した。Anthropicが軍事目的へのAI提供を断った一方、競合他社が軍との提携を積極的に進める展開となり、AI企業の倫理姿勢と商業判断の違いが鮮明になった。"
+    },
+    {
+      "title": "2026年5月のAI最新動向——エージェント協調・OpenAI新連携など加速",
+      "source": "AI and News",
+      "url": "https://www.aiandnews.com/blog/latest-ai-news-may-2026/",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年5月のAI分野をまとめたレポート。Novo NordiskとOpenAIの戦略提携によるAI創薬加速、協調型AIエージェントの台頭、米国でのAI経済価値が年間1720億ドルに達したことなど多岐にわたる最新トレンドを整理している。"
+    },
+    {
+      "title": "高市首相、日豪首脳会談で「大きな成果」——エネルギー・重要鉱物の連携強化",
+      "source": "TBS NEWS / Infoseek",
+      "url": "https://news.infoseek.co.jp/article/tbs_2642420/",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "高市早苗首相がベトナム・オーストラリア歴訪を終え帰国。日豪首脳会談ではエネルギーおよび重要鉱物のサプライチェーン強化で合意し「大きな成果」と評価。中東情勢の緊迫化を受けたエネルギー安全保障の多角化が主要テーマとなった。"
+    },
+    {
+      "title": "高市首相、省庁幹部との面会に偏り——外交・経済重視で法務・復興はゼロ",
+      "source": "Yahoo!ニュース（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/2b368fd6890d2ab0c3b7e1eb108d92fcb8b8fe24",
+      "time": "数日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "高市首相が外交・経済分野の省庁幹部との面会を集中させている一方、法務省や復興庁との面会がゼロであることが共同通信の調査で判明。政権の政策優先順位の偏りとして批判の声も上がっている。"
+    },
+    {
+      "title": "日本橋三越の「イタリア展」サンドイッチ店の動画がSNSで炎上",
+      "source": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/31183389/",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "東京・日本橋三越本店で開催中の「イタリア展」に出店したサンドイッチ店に関する動画がSNS上で拡散し炎上。百貨店側は対応を検討中とされており、インバウンド需要が高まる中での外国人向けイベントの在り方が議論されている。"
+    },
+    {
+      "title": "ホルムズ海峡の緊張にも米イラン停戦は維持——米国防長官が確認",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth",
+      "time": "2日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "ヘグセス米国防長官は、ホルムズ海峡での米イラン間の軍事的緊張にもかかわらず停戦合意は維持されていると述べた。イランの外相は合意まで「あと一歩」とする一方、パキスタンを仲介とした交渉継続が難航しており事態は流動的。"
+    },
+    {
+      "title": "UAEがイランのミサイル攻撃を受けたと発表——停戦後最大の緊張高騰",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/iran-war-uae-trump-ceasefire-missiles.html",
+      "time": "3日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "UAEが停戦合意にもかかわらずイランからのミサイル攻撃を受けたと発表し、学校をリモート授業に切り替えた。トランプ政権は強い不満を表明。停戦から約4週間での最大規模の緊張高騰で、合意の持続可能性が問われている。"
+    },
+    {
+      "title": "ロシアとウクライナが相互に「停戦」を宣言——しかし攻撃は継続",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires",
+      "time": "3日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "ロシアが対独戦勝記念日（5月8〜9日）に合わせ一方的停戦を宣言し、ウクライナも独自の停戦提案を発表した。しかし双方が互いの停戦違反を主張し、ロシア軍のドローン・ミサイル攻撃が続いており、実態として戦闘は停止していない。"
+    },
+    {
+      "title": "ウクライナ外相「ロシアが停戦を破棄」——ドローン164機・弾道ミサイル11発を確認",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/05/06/russia-broke-unilateral-ceasefire-with-drone-and-missile-attacks-ukraines-fm-says",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "ウクライナ外相はロシアが自ら宣言した停戦をドローン164機と弾道ミサイル11発の大規模攻撃で破ったと非難した。停戦宣言後に1820回の違反が記録されたとされ、ゼレンスキー大統領は今夏が外交か戦争継続かの分岐点と強調した。"
+    },
+    {
+      "title": "ロシア・ウクライナ戦況レポート（5月6日）——露軍損失が133万人超に",
+      "source": "Russia Matters",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-6-2026",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "2026年5月6日時点でロシア軍の累積損失は約133万7000人に達し、過去4週間でウクライナ領土約46平方マイルを失ったとされる。停戦宣言後も戦線は動いており、プーチン政権が外交転換を図るか否かが焦点となっている。"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "articles": [
+    {
+      "title": "OpenAI × NVIDIA、10GW規模のAIデータセンター戦略パートナーシップ発表",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "time": "3日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "OpenAIとNVIDIAが史上最大規模のAIインフラ整備に向けた戦略的パートナーシップを発表。NVIDIAが最大1000億ドルを段階的に投資し、OpenAIは10ギガワット規模のAIデータセンターをNVIDIAシステムで構築・運用する。第1フェーズは2026年後半にVera Rubinプラットフォームで開始予定。"
+    },
+    {
+      "title": "DeepSeek V4公開、ファーウェイAIチップで動作し中国AI競争が激化",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/24/deepseek-v4-ai-model-price-performance-china-open-source/",
+      "time": "10日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "中国のDeepSeekが1.6兆パラメータのV4モデルを発表。ファーウェイのAscend AIプロセッサに完全最適化しており、バイトダンスや騰訊などが発売即日に大量注文を入れた。ファーウェイの2026年AI半導体売上は60%増の約120億ドルに達する見込みで、米NVIDIAへの依存から脱却する動きが加速している。"
+    },
+    {
+      "title": "日本の生成AI利用率が54.7%に達し、1年でほぼ倍増",
+      "source": "AI NEWS365（note）",
+      "url": "https://note.com/ai_news365/n/nc2529b929b89",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "日本国内の生成AI利用率が54.7%に達した。2025年2月時点では27%だったことを考えると、わずか1年でほぼ倍増という急速な普及ぶり。OpenAI×NVIDIAの大型提携など世界的なAI動向が国内需要を後押ししており、ビジネス用途を中心に活用が広がっている。"
+    },
+    {
+      "title": "OpenAI Codexに「Pets」機能が追加、AIエージェントの状態を8種のキャラで可視化",
+      "source": "Innovatopia",
+      "url": "https://innovatopia.jp/ai/ai-news/100264/",
+      "time": "2日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "OpenAIはCodexアプリに「Pets」機能を追加。/petコマンドで起動し、8種類のデスクトップキャラクターとしてAIエージェントの処理状態を可視化できる。作業の進捗をキャラクターの動きで直感的に確認可能で、開発者の体験向上を狙ったユニークなUXアプローチとして注目を集めている。"
+    },
+    {
+      "title": "AIが数学の未解決問題を相次ぎ証明、2026年が歴史的転換点との評価",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6578584",
+      "time": "1週間前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年に入り、AIが未解決の数学的定理を証明したとする論文が世界で相次いで公表されている。専門家は2026年を「AIが安定して数学の未解決問題を解けるようになった最初の年」と評価しており、純粋数学や理論物理学へのAI応用が急速に進む可能性が注目される。"
+    },
+    {
+      "title": "みどりの日に春の嵐、東日本・北日本で暴風・大雨に警戒",
+      "source": "ウェザーニュース",
+      "url": "https://weathernews.jp/news/202605/030151/",
+      "time": "12時間前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "5月4日みどりの日は東日本・北日本を中心に荒天が予想される。発達した低気圧が北上し、関東甲信・東北で警報級の大雨・暴風のおそれ。北海道では平地でも積雪の可能性があり、GW終盤の帰省・旅行中の人は道路や交通機関の乱れに十分注意が必要。"
+    },
+    {
+      "title": "三陸沖を震源に最大震度5強の地震、津波警報が一時発令",
+      "source": "名古屋テレビ",
+      "url": "https://www.nagoyatv.com/news/?id=035144",
+      "time": "3日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "三陸沖を震源とする最大震度5強の地震が発生し、津波警報が一時発表された。愛知県内でも震度2の揺れが観測されるなど広い範囲に影響が及んだ。津波警報はその後解除されたが、気象庁は引き続き沿岸部での注意を呼びかけた。GW期間中とあって一部交通機関や観光施設でも影響が出た。"
+    },
+    {
+      "title": "中東情勢悪化で日本省庁が特設ページ・企業向け相談窓口を設置",
+      "source": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/39df18bff4ece351.html",
+      "time": "5日前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "イランとの紛争が長期化する中、日本の省庁が中東情勢に関する特設ページや企業向け相談窓口を設置した。ホルムズ海峡の事実上の封鎖で原油・ナフサなどの調達難が懸念されており、政府は影響を受ける国内企業の支援と情報提供を強化。エネルギー・製造業を中心に対応が急がれている。"
+    },
+    {
+      "title": "憲法記念日に「改正求める」「守ろう」双方の集会、各地で開催",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114001000",
+      "time": "1日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "5月3日の憲法記念日に、憲法改正を求める立場の人たちと憲法を守る立場の人たちがそれぞれ全国各地で集会を開催した。高市早苗首相が2027年春までに改正発議にめどをつける目標を掲げるなか、GW期間中にも憲法の在り方をめぐる議論が活発化している。"
+    },
+    {
+      "title": "イランが14項目の和平提案を提出、トランプは受け入れ困難と発言",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/02/trump-iran-strait-of-hormuz.html",
+      "time": "2日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "イランが米国に対し「30日以内の全面終戦」を求める14項目の和平提案を提出。内容には米軍撤退、ホルムズ海峡開放、制裁解除、賠償金支払いなどが含まれる。トランプ大統領は「到底受け入れられない」と難色を示しており、紛争64日目も中東情勢は膠着状態が続く。"
+    },
+    {
+      "title": "米、ドイツから5000人の軍撤退を発表、NATO同盟国に動揺広がる",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/u-s-to-withdraw-5000-troops-from-germany-in-next-6-to12-months",
+      "time": "2日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "米国防総省がドイツから約5000人の米軍を6〜12カ月以内に撤退させると発表。ドイツに駐留する米軍3万6000人の14%に相当し、NATOの集団防衛体制に影響が及ぶとして同盟国が懸念を示している。トランプ大統領はイタリア・スペインでもさらなる削減を示唆しており欧州に衝撃が走った。"
+    },
+    {
+      "title": "NATOが米軍撤退の詳細把握に動く、欧州の防衛自立議論が加速",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany",
+      "time": "2日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "NATOは米国のドイツ駐留軍撤退発表を受け、詳細の把握と影響評価に乗り出した。NATO広報官は欧州加盟国が自国防衛への投資を増やす重要性を改めて強調。ドイツのシュピーゲル誌は「欧州防衛自立の加速を迫られる歴史的転機」と報じており、欧州各国での防衛費増額論議が再燃している。"
+    },
+    {
+      "title": "トランプ大統領、ホルムズ海峡で足止めの船舶を米海軍が誘導開始と表明",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "トランプ大統領がホルムズ海峡で航行できなくなっていた船舶について、米海軍が月曜日から誘導を開始すると表明した。事実上の封鎖状態だったホルムズ海峡の通航正常化に向けた動きで、国際的なエネルギー供給や物流への影響が注目されている。イランとの核交渉と並行して行われる。"
+    }
+  ]
+}

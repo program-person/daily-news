@@ -1,0 +1,121 @@
+{
+  "articles": [
+    {
+      "title": "AIの現状2026年5月版：GPT-5.5やDeepSeek V4など新モデルが続々登場",
+      "source": "Air Street Press",
+      "url": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "time": "1日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年5月のAI状況をまとめたレポート。OpenAIのGPT-5.5、DeepSeek V4など多数の新モデルが登場し、単発タスクからエージェント型ワークフローへの移行が最大のトレンドとして台頭。複数のAIエージェントが連携して複雑な目標を達成する仕組みへの移行が業界全体で加速している。"
+    },
+    {
+      "title": "中国AIモデル4社、欧米フロンティアに匹敵する性能を低コストで実現",
+      "source": "Mean CEO Blog",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-may-2026/",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "Z.aiのGLM-5.1、MiniMax M2.7、KimiのK2.6、DeepSeek V4など中国4社のオープンウェイトコーディングモデルが一斉登場。欧米のフロンティアモデルと同水準のエージェント工学性能を大幅に低いコストで実現しており、AI競争のさらなる激化が改めて注目されている。"
+    },
+    {
+      "title": "GoogleがGemma 4公開、推論・エージェント向けオープンAIモデルを強化",
+      "source": "AI and News",
+      "url": "https://www.aiandnews.com/blog/latest-ai-news-may-2026-3/",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "GoogleがGemma 4をApache 2.0ライセンスで公開。推論・エージェントワークフロー向けに最適化されており、TurboQuantアルゴリズムでLLMのKVキャッシュ問題を大幅改善。AnthropicやNovo Nordiskなど企業のAI活用が拡大し、消費者向けの生成AIツールの年間価値は1720億ドルに達した。"
+    },
+    {
+      "title": "エージェント型AIが企業導入で加速、Salesforceも全機能をAPI公開",
+      "source": "Crescendo",
+      "url": "https://www.crescendo.ai/news/agentic-ai-news-and-developments",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "エージェント型AIが企業現場に本格普及しつつある。Salesforceが全プラットフォーム機能をAPI・MCPツールとして公開する「Headless 360」を発表し、AIエージェントがブラウザなしでSalesforceを操作可能に。複数エージェントの連携による複雑なタスク実行が次の大きな進化として注目されている。"
+    },
+    {
+      "title": "NVIDIAがフィジカルAI最新モデル公開、次世代ロボット技術を披露",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "NVIDIAがNational Robotics Week 2026に合わせ、物理世界と連携するフィジカルAIの最新研究成果を公開。グローバルパートナーが次世代ロボットを披露しており、AIとロボティクスの融合が製造・物流など産業界で急速に進行していることが改めて示された。"
+    },
+    {
+      "title": "高市首相、豪州と経済安保共同宣言─「準同盟国」に発展、中国の輸出規制に懸念を明記",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114361000",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "高市首相がオーストラリアでアルバニージー首相と首脳会談を行い、レアアース等のサプライチェーン強化を核とした経済安保共同宣言を発表。中国の輸出規制に強い懸念を明記し、日豪関係を「準同盟国」と表現。自由で開かれたインド太平洋（FOIP）の推進でも合意した。"
+    },
+    {
+      "title": "高市首相が新外交方針「力の時代」を表明、同志国と連携し法の支配を維持へ",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA010Z10R00C26A5000000/",
+      "time": "数日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "高市首相が「力の時代」と銘打った新外交方針を表明。民主主義・自由・法の支配を共有する同志国と連携しながら国際秩序を守る方針を打ち出した。防衛装備移転の規制緩和や経済安全保障の強化も盛り込み、積極外交路線を内外に明確に示した。"
+    },
+    {
+      "title": "日豪共同宣言：重要鉱物のサプライチェーン強化を経済安保の「中核」に位置付け",
+      "source": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/31177993/",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "update",
+      "summary": "高市首相とオーストラリア首相の共同宣言で、レアアース等の重要鉱物サプライチェーン強化を経済安保の「中核」と位置付け。中国の輸出規制を念頭に強い懸念を表明し、エネルギー・食料分野でも連携を確認。FOIP実現に向けた日豪共同取り組みの加速も合意した。"
+    },
+    {
+      "title": "イランとの停戦続くも緊張継続─UAEへの攻撃や「Project Freedom作戦」で情勢不安定",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米国がイランとの停戦は維持されているとする一方、イランがUAEに対しミサイル・ドローン攻撃を継続。米軍は「Project Freedom作戦」でホルムズ海峡の中立船舶エスコートを開始したが、イランはこれを停戦違反と主張し緊張が続いている。"
+    },
+    {
+      "title": "ホルムズ海峡紛争ライブ：米、攻撃フェーズ終了を宣言もイランは海峡封鎖を継続",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米国務長官ルビオが作戦の攻撃フェーズ終了を宣言。しかし、UAEは2日連続でイランのミサイル・ドローン攻撃を報告し、イランは海峡封鎖を維持している。死者数は暫定でイラン3,468人・レバノン2,702人に達しているとの報告があり、人道状況も悪化が続く。"
+    },
+    {
+      "title": "ホルムズ海峡危機：米国が船舶護衛開始も、イランは停戦違反と警告",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/",
+      "time": "2日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米国は5月4日「Project Freedom作戦」としてホルムズ海峡での中立船舶護衛を開始し、これまでに2隻が通過。一方、イランはこの動きを停戦合意違反として非難。停戦の先行きが不透明な状況が続き、原油市場や国際貿易への影響が懸念されている。"
+    },
+    {
+      "title": "停戦下でもイランがUAEと海峡船舶を攻撃、米軍がイラン小型船7隻を撃沈",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ship-attack-threat-peace-proposal/",
+      "time": "2日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "停戦協定が維持されているとされる中、イランがUAEとホルムズ海峡の船舶への攻撃を継続。米軍もイランの小型船7隻を撃沈したと発表した。トランプ政権は和平案を検討しつつも「イランに対価を支払わせる」と強硬姿勢を維持している。"
+    },
+    {
+      "title": "報道自由度が25年で最低水準に─RSF 2026年指数、米国は64位に転落",
+      "source": "IFEX",
+      "url": "https://ifex.org/2026-rsf-index-press-freedom-at-a-25-year-low/",
+      "time": "数日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "国境なき記者団（RSF）の2026年プレスフリーダム指数で、報道自由度が25年の指数史上最低を記録。初めて半数以上の国が「困難」または「非常に深刻」に分類された。米国はトランプ政権下で7位下落し64位に。ノルウェーが10年連続首位、シリアは解放後に36位上昇した。"
+    }
+  ]
+}

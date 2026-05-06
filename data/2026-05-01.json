@@ -1,0 +1,112 @@
+{
+  "articles": [
+    {
+      "title": "AnthropicがClaude Opus 4.7を全プラットフォームで提供開始、最強モデル「Mythos」も予告",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "time": "7日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "AnthropicはClaude Opus 4.7をAPIおよびAmazon Bedrock、Google Cloud Vertex AI、Microsoft Foundryで一般提供開始した。同社はさらに「Mythos」と呼ばれる史上最強のモデルも予告しており、特にサイバーセキュリティ応用に優れるとしている。エージェント機能も強化されている。"
+    },
+    {
+      "title": "GoogleがAnthropicへ最大400億ドルの投資を発表、AI覇権争いが加速",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "time": "7日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "Googleは評価額3500億ドルでAnthropicへ最初に100億ドルを投資し、性能目標達成を条件に追加300億ドルを拠出すると発表した。半導体メーカーBroadcomとも三者提携を締結し、2027年からGoogleのTPUコンピューティング容量をAnthropicへ供給する大型契約も合わせて公表した。"
+    },
+    {
+      "title": "OpenAIがGPT-5.5を発表、コーディング・リサーチ能力が大幅強化",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
+      "time": "8日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "OpenAIは最新AIモデル「GPT-5.5」を発表した。コーディング・コンピュータ操作・深いリサーチの各能力が従来モデルより大幅に向上しているとされ、Plus・Pro・Business・Enterpriseの有料ユーザーへ段階的なロールアウトが開始されている。"
+    },
+    {
+      "title": "NVIDIAが物理AIモデルの新バージョンを公開、ヒューマノイドロボット量産化が加速",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+      "time": "最近",
+      "category": "tech",
+      "tag": "new",
+      "summary": "NVIDIAはヒューマノイドロボット向けIsaac GR00T N1.7の早期アクセスを商用ライセンス付きで開始した。Hugging Faceとも提携しLeRobotフレームワークへ統合し、NVIDIAの200万人のロボティクス開発者とHugging Faceの1300万人のAIビルダーをつなぐエコシステムを構築する。"
+    },
+    {
+      "title": "GoogleがOpenAI・Anthropicに対抗するAIエージェントツール群を一斉公開",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic",
+      "time": "9日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "Googleは企業の業務タスク自動化を支援するAIエージェントツール群を発表した。OpenAIとAnthropicへの対抗を明確に意識した展開で、複雑なワークフローを自律的に処理するエージェント基盤の整備を急ぐ。AIエージェント市場での三社の競争は新たな段階に突入した。"
+    },
+    {
+      "title": "高市首相が連合メーデーに初出席、「地方中小企業にも賃上げの流れを」",
+      "source": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026042900163&g=pol",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "高市早苗首相は4月29日、代々木公園での連合メーデー中央大会に現職首相として初出席した。春季労使交渉で3年連続5%超の賃上げが実現したことを評価し、「賃上げ環境の整備に万全を期す」として地方の中小企業への波及と物価上昇を上回る賃金実現を訴えた。"
+    },
+    {
+      "title": "子ども・子育て支援金、5月給与から実質徴収スタート——全医療保険加入者が対象",
+      "source": "マネイロメディア",
+      "url": "https://moneiro.jp/media/article/childcare-support-start",
+      "time": "3日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "2026年4月に新設された「子ども・子育て支援金」制度により、翌月徴収が一般的な会社員は5月支給の給与から実質的な徴収が始まる。支援金率は0.23%（本人負担0.115%相当）で給与・賞与両方から控除される。子どもの有無にかかわらず公的医療保険加入者全員が対象となる。"
+    },
+    {
+      "title": "2026年の日本経済、AI投資拡大の恩恵で上場企業7割が純利益増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/9900a983c929a87625c71753a55e7abbdddf5947",
+      "time": "4日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "米テック企業を中心とした世界的AI投資の拡大が国内企業の収益にも波及し、4月30日時点で発表済みの上場企業154社のうち約7割が2026年3月期の純利益増を達成。半導体・製造・ITサービス各分野にわたりAI需要の恩恵が広がっている。"
+    },
+    {
+      "title": "核廃絶へ「国内外連携を」——4団体が米国で合同企画、被爆国の声を発信",
+      "source": "北海道新聞",
+      "url": "https://www.hokkaido-np.co.jp/article/1306947/",
+      "time": "数日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "日本の核廃絶関連4団体が米国で合同企画を開催し、被爆国としての立場から国際社会への訴えを強化した。イランを巡る中東情勢の緊張が高まる中、核兵器使用リスクへの懸念が改めて浮上しており、国内外の市民社会連携の重要性を訴えた。"
+    },
+    {
+      "title": "英国がテロ脅威レベルを「深刻」に引き上げ——ゴールダーズ・グリーン反ユダヤ刺傷事件受け",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/threat-level-increase-following-antisemitic-terror-attack",
+      "time": "1日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "英国の合同テロリズム分析センター（JTAC）は4月30日、国内テロ脅威レベルを「相当」から「深刻（攻撃の可能性が非常に高い）」に引き上げた。ゴールダーズ・グリーンで発生した反ユダヤ主義的刺傷事件が直接の契機だが、イスラム過激派と極右双方からの長期的な脅威上昇も背景にある。"
+    },
+    {
+      "title": "世界の報道自由度が25年ぶり最低水準——RSFが2026年版指数を発表",
+      "source": "Reporters Without Borders (RSF)",
+      "url": "https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low",
+      "time": "1日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "国境なき記者団（RSF）が公表した2026年世界報道自由度指数で、180か国の平均スコアが25年来最低を記録した。「良好」な報道環境に暮らす世界人口の割合は1%未満にまで低下し、法的指標の悪化が110か国で確認された。米国も過去最低水準に落ち込んだ。"
+    },
+    {
+      "title": "イラン停戦は「脆弱な休戦」——トランプがイランに統一的和平提案を要求",
+      "source": "STL News",
+      "url": "https://www.stl.news/iran-war-update-2026-ceasefire-rising-global-tensions/",
+      "time": "2日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "JDバンス副大統領が「脆弱な休戦」と表現するほど不安定なイラン停戦が続く中、トランプ大統領はイランに「早く賢くなれ」と警告し統一的な和平提案の提出を要求した。ホルムズ海峡の封鎖問題が最大の交渉難航点となっており、双方の停戦違反も相次いでいる。"
+    }
+  ]
+}

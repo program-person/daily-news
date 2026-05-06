@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "title": "2026年はAI支援サイバー攻撃の年——CVEの28%が24時間以内に悪用される時代へ",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "2026年はAIを活用したサイバー攻撃が前例のない速度で拡大している。公開されたCVEの28.3%が開示後24時間以内に悪用されており、AIがコード生成を超高速化させた結果、攻撃者が防御側を大幅に上回るスピードで動けるようになった。セキュリティチームは防御戦略の根本的な見直しを迫られている。"
+    },
+    {
+      "title": "IBM調査：CEOの76%がChief AI Officerを設置——AIファースト経営への転換が世界で加速",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era",
+      "time": "1日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "IBMが33カ国・21業界の2000名のCEOを対象に行った調査によると、Chief AI Officerを設置している企業が2025年の26%から2026年には76%へと急増した。CEOの64%がAI出力に基づく主要な意思決定を容認。2026〜2028年の間に従業員の29%が異なる役割へのリスキリングを必要とするとも予測されており、AIファースト経営への転換が急速に進んでいる。"
+    },
+    {
+      "title": "Google社員、ペンタゴンへのAI提供拡大に反発——Project Maven以来の倫理的対立が再燃",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/04/google-employee-backlash-pentagon-ai-contract-power-waned-since-project-maven/",
+      "time": "1日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "AnthropicがAIの軍事利用を拒否した後、Googleが米国防総省へのAIアクセスを拡大したことを受け、社内で反発の声が上がっている。2018年のProject Maven問題以来の倫理的対立が再浮上した形で、社員たちはAIの軍事利用に反対する署名活動を行っているが、当時ほどの組織的な影響力はないとの見方もある。"
+    },
+    {
+      "title": "GoogleがAndroid向け「Gemma 4」AIコアを開発者プレビューで公開——オンデバイスAIを強化",
+      "source": "Android Developers Blog",
+      "url": "https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html",
+      "time": "数日前",
+      "category": "tech",
+      "tag": "update",
+      "summary": "GoogleはAndroidの「AIコア」開発者プレビューにてGemma 4モデルの統合を発表した。Gemma 4は高度な推論とエージェント型ワークフローに最適化されたオープンソースモデルで、Androidデバイス上でのリアルタイムAI処理を大幅に強化するとされる。Google I/O 2026（5月19〜20日）での正式発表が期待されている。"
+    },
+    {
+      "title": "「答えは知っているが、質問を理解できない」——大規模言語モデルの認知的盲点が研究で明らかに",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "time": "6日前",
+      "category": "tech",
+      "tag": "new",
+      "summary": "新研究により、大規模言語モデルが正確な情報を保有しながらも質問の文脈や意図を正確に把握できないケースが存在することが示された。AIの「知識保有」と「理解力」の間には根本的な乖離があり、医療・法律など高精度が求められる分野での活用において、このギャップへの対処が重要な課題として浮かび上がっている。"
+    },
+    {
+      "title": "岩手・大槌町の大規模山林火災が鎮圧——発生11日後に町ににぎわい戻る",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113991000",
+      "time": "3日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "岩手県大槌町で4月22日に発生した大規模山林火災が5月2日に鎮圧を宣言した。焼損面積は1633ヘクタールで平成以降2番目の規模。最大で約3257人に避難指示が出されたが4月30日に全解除。5月3日には観光客や飲食店ににぎわいが戻ってきており、地域の復興が本格的に始まっている。"
+    },
+    {
+      "title": "GW Uターンラッシュが本日5月5日にピーク——4日は関東で今年初の真夏日、北海道は積雪注意",
+      "source": "tenki.jp",
+      "url": "https://tenki.jp/forecaster/r_fukutomi/2026/05/04/38801.html",
+      "time": "1日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "2026年ゴールデンウィーク最終盤の5月5日（こどもの日）に高速道路・新幹線のUターンラッシュがピークを迎える。4日は関東で今年初の真夏日を記録した。5日は関東〜九州が晴れて紫外線が非常に強く日焼け対策が必要。一方、北海道の道北では雪が積もる所もあり、路面凍結への注意も呼びかけられている。"
+    },
+    {
+      "title": "GW期間中の国内注目ニュースまとめ——中国新聞が5月3日以降の重要記事を一覧掲載",
+      "source": "中国新聞デジタル",
+      "url": "https://www.chugoku-np.co.jp/articles/-/825102",
+      "time": "2日前",
+      "category": "jp",
+      "tag": "new",
+      "summary": "中国新聞デジタルがゴールデンウィーク中の5月3日以降の国内注目ニュースをまとめて掲載した。岩手・大槌の山林火災の鎮圧宣言、GWのUターンラッシュ動向、各地の連休中の出来事などが含まれており、連休中の主要ニュースを一覧で確認できる内容となっている。"
+    },
+    {
+      "title": "こどもの日の長野県内——各地でイベント開催、GW最終盤もにぎわい",
+      "source": "長野日報",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5736",
+      "time": "本日",
+      "category": "jp",
+      "tag": "new",
+      "summary": "2026年5月5日こどもの日、長野県内では各地で子ども向けのイベントや祭りが開催された。ゴールデンウィーク最終日を多くの家族連れが楽しむ様子が報告されており、気象面でも晴天が続いたことから観光地への来訪者が多く見られた。Uターンラッシュのピークに伴い一部道路では渋滞も発生した。"
+    },
+    {
+      "title": "米軍とイラン軍がホルムズ海峡で交戦——脆弱な停戦が重大な岐路に",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/04/world/live-news/iran-war-hormuz-trump",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米軍がホルムズ海峡でイランの小型艦艇6隻を撃沈した一方、イランは米海軍艦艇と商業船に向けて巡航ミサイル・ドローン・小型艦艇で攻撃を仕掛けた。トランプ大統領の「オペレーション・プロジェクト・フリーダム」が停戦協定を脅かしており、ガソリン価格は1ガロン4.46ドルと約4年ぶりの高水準に達している。"
+    },
+    {
+      "title": "ホルムズ海峡危機を解説——なぜ停戦は揺らいでいるのか、今後の見通しは？",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national/2026/05/04/iran-war-ceasefire-strait-hormuz-explainer/bcba8094-47d9-11f1-a119-857cd2bf4fd4_story.html",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "米国がホルムズ海峡への中立船の通過支援を試みる中、イランはこれを停戦違反と主張し軍事的対応を取った。アブダビ国立石油会社CEOは海峡がまだ完全には開通していないと述べており、湾岸諸国の石油輸出に支障が続く。停戦の維持可能性と今後の外交交渉の行方が焦点となっている。"
+    },
+    {
+      "title": "クルーズ船でハンタウイルス感染疑い——3人死亡、150人が大西洋上に足止め",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hantavirus-outbreak-apparent-cruise-ship-atlantic-africa-cape-verde/",
+      "time": "2日前",
+      "category": "world",
+      "tag": "new",
+      "summary": "オランダのクルーズ船「MVホンディウス」で乗客・乗員約150人がハンタウイルス感染疑いのアウトブレイクにより大西洋上に足止めされている。3人が死亡し少なくとも3人が感染中。カーボベルデ沖に停泊中だが港への入港を拒否されており、WHOが公式調査に乗り出した。ハンタウイルスはげっ歯類から人への感染で、ヒト間感染は稀。"
+    },
+    {
+      "title": "WHOがクルーズ船ハンタウイルスを公式アウトブレイクと認定——7名感染・3名死亡",
+      "source": "WHO",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+      "time": "1日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "世界保健機関（WHO）は2026年5月4日時点でクルーズ船「MVホンディウス」のハンタウイルスアウトブレイクを公式に認定した。7名（実験室確認2名・疑い5名）が感染し3名が死亡。症状は急速に肺炎・急性呼吸窮迫症候群・ショックへ進行するとされ、一般市民への感染リスクは低いものの国際的な監視が続けられている。"
+    },
+    {
+      "title": "イランが新たな和平提案を提出——トランプ大統領が「検討中」と表明、戦争64日目の現状",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
+      "time": "3日前",
+      "category": "world",
+      "tag": "update",
+      "summary": "イランとの戦争勃発から64日目、トランプ大統領はイランの最新和平提案について「検討中」と発言し、受け入れの可能性を示唆した。イラン側の死者は3375人、レバノン側2509人という甚大な人的被害が報告されており、外交的解決への国際的な圧力が高まっている。停戦と軍事行動が並行する複雑な情勢が続く。"
+    }
+  ]
+}

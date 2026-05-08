@@ -1,0 +1,193 @@
+{
+    "articles": [
+        {
+            "title": "EU議会・理事会、AI法の簡素化に合意 高リスクAI規定は8月施行へ",
+            "source": "EU Council（欧州連合理事会）",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+            "time": "約1日前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "EUの理事会と欧州議会は、AI法の規制要件を簡素化・合理化することで合意した。高リスクAIシステムに関する規定は2026年8月2日に発効予定。企業の管理負担を軽減しながら安全性を確保する方向で調整され、AIイノベーション促進との両立が図られる。"
+        },
+        {
+            "title": "NVIDIAとIREN、最大5GWのAIインフラ展開で戦略的提携を発表",
+            "source": "Taiwan News",
+            "url": "https://www.taiwannews.com.tw/news/6357741",
+            "time": "数時間前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "NVIDIAとデータセンター企業IRENは、IRENのグローバルデータセンターパイプラインに最大5GWのNVIDIA AIインフラを展開するための戦略的提携を発表した。急増するAIワークロード需要への対応を強化し、大規模AIクラスターの整備を加速する。"
+        },
+        {
+            "title": "米中AI対話が加速、トランプ・習近平サミットの議題に浮上",
+            "source": "CommonWealth Magazine（天下雑誌）",
+            "url": "https://english.cw.com.tw/article/article.action?id=4760",
+            "time": "数時間前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "米中両政府が北京でのトランプ・習近平サミット議題にAI分野を追加することを検討していると報じられた。財務長官ベッセント氏が米国側の交渉を主導する見通しで、AI国際規制枠組みや技術覇権争いへの影響が注目を集める。"
+        },
+        {
+            "title": "ホワイトハウス、新AIモデルの事前審査義務化を検討 Mythosが引き金に",
+            "source": "Tom's Hardware",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models",
+            "time": "約2日前",
+            "category": "tech",
+            "tag": "update",
+            "summary": "ホワイトハウスは、AnthropicのMythosモデルがサイバーセキュリティリスクをもたらすとの懸念を受け、新AIモデルの公開前審査を義務化する大統領令の起草を検討している。FDA型の審査体制構築を想定しており、業界への規制強化が現実味を帯びている。"
+        },
+        {
+            "title": "Kodiak AIとGeneral Dynamics、AI搭載の自律軍用地上車両を共同開発へ",
+            "source": "Taiwan News",
+            "url": "https://www.taiwannews.com.tw/news/6357699",
+            "time": "数時間前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "AI自律運転企業Kodiak AIと防衛大手General Dynamics Land Systemsは、防衛用途の自律地上車両開発に向けた戦略的提携を発表した。KodiakのPhysical AI搭載バーチャルドライバー技術を活用し、軍用車両の無人化・自律化を推進する。"
+        },
+        {
+            "title": "米政府、Google・Microsoft・xAIとAIモデルの公開前テスト協定を締結",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html",
+            "time": "約3日前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "米国立標準技術研究所のAI安全標準革新センターは、Google DeepMind・Microsoft・xAIとの協定を締結し、政府がAIモデルを一般公開前に評価できる仕組みを整備した。トランプ政権によるAIガバナンス強化の具体的な一歩として注目される。"
+        },
+        {
+            "title": "エージェントAI「本番環境対応済み」の企業はわずか15% Fivetran 2026年調査",
+            "source": "Solutions Review",
+            "url": "https://solutionsreview.com/ai-news-for-the-week-of-may-8-updates-from-anthropic-cribl-ibm-more/",
+            "time": "本日",
+            "category": "tech",
+            "tag": "new",
+            "summary": "Fivetranが発表した「2026年エージェントAI準備度指数」では、エージェントAIを本番環境で支える準備が整った企業はわずか15%。約60%が既に多額の投資をしているが、データ統合や運用体制の整備が課題で、企業間のAI活用格差が浮き彫りになった。"
+        },
+        {
+            "title": "磐越道バス事故で運転手逮捕 第2種免許なしと判明 バス会社も家宅捜索",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUD080Y90Y6A500C2000000/",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "update",
+            "summary": "高校生ら21人が死傷した磐越自動車道バス事故で、警察は68歳の運転手を過失運転致死傷容疑で逮捕した。運転手が旅客輸送に必要な第2種免許を持っていないことが新たに判明し、バス運行会社への家宅捜索も実施された。"
+        },
+        {
+            "title": "3月の実質賃金が前年比1.0%増 3カ月連続プラス 厚労省発表",
+            "source": "NHK",
+            "url": "https://news.web.nhk/newsweb/na/na-k10015116091000",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "厚生労働省が8日発表した3月の毎月勤労統計調査によると、実質賃金は前年同月比1.0%増となり3カ月連続のプラスとなった。基本給（所定内給与）が3.2%増と好調なほか、政府のエネルギー補助再開による物価抑制も寄与した。"
+        },
+        {
+            "title": "世界卓球2026ロンドン大会 日本女子がウクライナ撃破で6大会連続メダル確定",
+            "source": "Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/e44b76b6d3bab80e9ceee72d574bdf2b21a6cdf8",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "世界卓球2026ロンドン100周年大会の準々決勝で、日本女子チームがウクライナを3対0のオールストレートで撃破し準決勝進出を決めた。これにより6大会連続のメダル確定となり、早田ひなは「気が緩まないようにしたい」とコメントした。"
+        },
+        {
+            "title": "米ベッセント財務長官が11日訪日 高市首相・植田日銀総裁と為替・経済協議へ",
+            "source": "NHK",
+            "url": "https://news.web.nhk/newsweb/na/na-k10015115841000",
+            "time": "約1日前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "米財務省のスコット・ベッセント長官が5月11〜13日の日程で訪日し、高市早苗首相・片山さつき財務相・植田和男日銀総裁と会談する見通し。円安是正や日米経済安全保障、米中首脳会談前の事前調整などが主な議題となる。"
+        },
+        {
+            "title": "「母の日」前に花の出荷がピーク 物価高・原油高で価格上昇の傾向",
+            "source": "ライブドアニュース",
+            "url": "https://news.livedoor.com/article/detail/31213548/",
+            "time": "本日",
+            "category": "jp",
+            "tag": "new",
+            "summary": "5月10日の母の日を前に全国で花の出荷がピークを迎えている。物価高・原油高による生産・輸送コスト増加で花束価格も上昇傾向にある。人気のカーネーション以外にも多様なアレンジメント需要が増加しており、今年の花市場の動向が注目されている。"
+        },
+        {
+            "title": "美浜原発3号機で蒸気漏れ 関西電力が原子炉を手動停止 外部への放射能漏れなし",
+            "source": "NHK",
+            "url": "https://news.web.nhk/newsweb/na/na-k10015116501000",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "関西電力は8日午前4時24分、美浜原発3号機（福井県）の高圧タービン周辺から蒸気漏れを確認し原子炉を手動停止したと発表した。蒸気に放射性物質は含まれず環境への影響はないが、原因調査中で運転再開の見通しは立っていない。"
+        },
+        {
+            "title": "磐越道バス事故 運転手「時速90〜100キロ走行」と供述 居眠り運転は否定",
+            "source": "NHK",
+            "url": "https://news.web.nhk/newsweb/na/na-k10015116411000",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "update",
+            "summary": "磐越道バス事故で逮捕された68歳の運転手は「時速90〜100キロで走行していた、速度の見極めが甘かった」と供述したことが明らかになった。居眠り運転については否定しており、捜査当局が事故の全容解明を進めている。"
+        },
+        {
+            "title": "イラン、米の最新和平提案を「審査中」と表明 ホルムズ海峡での衝突続く",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "update",
+            "summary": "イランは米国の最新和平提案を「審査中」と表明したものの、ホルムズ海峡では新たな衝突が発生した。イランが海峡通行の課税・審査機関を新設したことも判明。トランプ大統領は停戦が維持されていると主張するが、紛争の再燃リスクが高まっている。"
+        },
+        {
+            "title": "ハンタウイルス感染の豪華客船MV Hondiusがカナリア諸島へ スペインが避難準備",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/05/08/g-s1-121055/spain-readies-for-evacuations",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "update",
+            "summary": "ハンタウイルス（アンデス株）のアウトブレイクが発生した豪華客船MV Hondiusがスペイン・テネリフェ島に向かっており、当局が147人の乗客・乗員の受け入れと隔離準備を進めている。これまでに3人死亡、人から人への感染の可能性も指摘されている。"
+        },
+        {
+            "title": "オランダ首相の政党D66本部で爆発物事件 容疑者逮捕 首相「臆さない」と声明",
+            "source": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/05/08/d66-headquarters-rob-jetten-bombing/dc2de3c6-4aef-11f1-a119-857cd2bf4fd4_story.html",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "new",
+            "summary": "オランダ首相ロブ・イェッテン氏が率いるD66党のハーグ本部で爆発物が炸裂した。若者部会イベント中で約30人が参加していたが負傷者なし。警察は37歳の男を逮捕し、イェッテン首相は「臆病な脅迫行為」と非難する声明を発表した。"
+        },
+        {
+            "title": "米・フィリピン合同演習が史上最大規模で終了 タイフォンミサイル初使用で中国を牽制",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/05/06/nx-s1-5810616/u-s-stages-largest-ever-annual-military-drills-in-the-philippines",
+            "time": "約2日前",
+            "category": "world",
+            "tag": "new",
+            "summary": "米国・フィリピンを含む7か国・1万7000人以上が参加した第41回バリカタン合同演習が終了。台湾海峡・南シナ海紛争への抑止を念頭に、フィリピン国内でタイフォンミサイルシステムが初使用されるなど新戦術を披露。中国は近海で対抗演習を実施した。"
+        },
+        {
+            "title": "イスラエル軍がベイルートを空爆 ヒズボラ精鋭ラドワン部隊司令官を殺害",
+            "source": "Times of Israel",
+            "url": "https://www.timesofisrael.com/liveblog_entry/idf-confirms-killing-commander-of-hezbollahs-radwan-force-in-beirut-strike/",
+            "time": "約2日前",
+            "category": "world",
+            "tag": "new",
+            "summary": "イスラエル国防軍はベイルート南部郊外を空爆し、ヒズボラ精鋭部隊「ラドワン部隊」司令官アハマド・ガーレブ・バルートを殺害したと確認した。4月の停戦後ほぼ1か月ぶりのベイルート攻撃で、複数の上級幹部も同時に殺害された。"
+        },
+        {
+            "title": "イスラエルが南レバノンで空爆 5人死亡 ヒズボラはロケットで応戦",
+            "source": "CBC News",
+            "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "new",
+            "summary": "イスラエル軍が南レバノンで複数の空爆を実施し5人が死亡した。ヒズボラはイスラエル北部の空き地にロケットを発射して応戦した。ベイルートでのヒズボラ司令官殺害後、レバノン戦線での緊張が再び高まっている。"
+        },
+        {
+            "title": "2026年5月8日 世界ニュースブリーフ：中東・欧州・アジアの主要動向",
+            "source": "Havana Times",
+            "url": "https://havanatimes.org/news/international-news-briefs-for-friday-may-8-2026/",
+            "time": "本日",
+            "category": "world",
+            "tag": "new",
+            "summary": "2026年5月8日の主要国際ニュース概観。イラン・米停戦協議の継続と衝突、オランダ首相党本部爆発事件、ハンタウイルス豪華客船のカナリア諸島接近、フィリピンでの米比合同演習終了など、複数の重要事案が同時進行している。"
+        }
+    ]
+}

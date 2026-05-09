@@ -1,0 +1,139 @@
+{
+    "articles": [
+        {
+            "title": "NVIDIA、2026年序盤だけでAI企業に400億ドル超を出資 OpenAI・xAIなどに集中投下",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+            "time": "数時間前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "NVIDIAが2026年の最初の数か月間だけで、AI企業への株式投資に400億ドル以上を投じたことが明らかになった。OpenAIへの300億ドル拠出を中心に、xAIや関連スタートアップへの戦略的出資を拡大しており、AIエコシステム全体での影響力を一段と強めている。"
+        },
+        {
+            "title": "Anthropic、Akamaiと18億ドルの計算インフラ契約 Claudeの需要急増に対応",
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
+            "time": "約1日前",
+            "category": "tech",
+            "tag": "update",
+            "summary": "Anthropicはクラウド大手Akamai Technologiesと18億ドル規模の計算インフラ契約を締結した。生成AI「Claude」の利用が急増しコンピュート不足に直面しており、SpaceXやCoreWeaveに続く競合・大手プレイヤーとの提携で計算資源確保を急いでいる。"
+        },
+        {
+            "title": "テンセント・アリババ決算 AI投資コスト膨張で成長鈍化懸念 中国AI競争激化",
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-08/tencent-alibaba-face-slowing-growth-as-ai-costs-mount",
+            "time": "約1日前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "中国IT大手のテンセントとアリババの今後の決算は、AI投資コストの拡大と中国国内のAI競争激化で成長鈍化が見込まれる。DeepSeek V4の登場以降競争が一段と熾烈化し、テンセントは通期増益率が10%台前半に減速、アリババもAI主導の長期収益化が課題となる。"
+        },
+        {
+            "title": "生成AI市場で三極化進む ChatGPTシェア4割割れ Claude急伸でGemini安定",
+            "source": "ITmedia エンタープライズ",
+            "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+            "time": "約1日前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "Apptopiaの最新調査で、米国生成AIチャットボット市場のシェアが急変化。ChatGPTは2026年1月の45.3％から4月に38.1％へ低下、Claudeは1.5％から13.1％へ急伸し、Geminiは25％前後で安定。三極化の進展と高頻度利用層の二極化傾向が鮮明になった。"
+        },
+        {
+            "title": "Apple、Siri虚偽広告訴訟で2.5億ドルの和解金支払いに合意 AI機能の遅延巡り",
+            "source": "ITmedia NEWS",
+            "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+            "time": "約1日前",
+            "category": "tech",
+            "tag": "new",
+            "summary": "Appleは2025年3月以降提起されたApple Intelligence関連の集団訴訟で2.5億ドル（約390億円）の和解金支払いに合意した。2024年のWWDCで宣伝された一部AI機能が2026年5月時点でも未提供だった点が問題視され、米消費者には1台あたり最大95ドルが補償される。"
+        },
+        {
+            "title": "国の借金、1343兆円で過去最大 25年度末 物価高対策で経費膨張",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUA089DE0Y6A500C2000000/",
+            "time": "約1日前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "財務省は8日、国債・借入金・政府短期証券の合計「国の借金」が2025年度末時点で1343兆8426億円となり、前年度末から20兆1271億円増えて過去最大を更新したと発表した。普通国債残高は1104兆円超に達し、物価高対策など政策経費の膨張が国債依存を強めている。"
+        },
+        {
+            "title": "ホンダ、26年3月期で初の営業赤字4000億円 EV関連損失2.5兆円 脱ガソリン目標見直しへ",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUB08BHO0Y6A400C2000000/",
+            "time": "約1日前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "ホンダは2026年3月期の連結営業損益が4000億円規模の赤字に転落、上場以来初の営業赤字となった。北米EV需要減速で27年3月期までに最大2.5兆円の損失を見込み、三部社長は40年「脱エンジン」目標を「現実的に達成困難」とし戦略の見直しに踏み切る。"
+        },
+        {
+            "title": "9日の高市首相の動静 経団連幹部・国家安保補佐官と相次ぎ会談",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUA093KV0Z00C26A1000000/",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "高市早苗首相は9日午前、官邸で閣議に出席後、片山財務相、経団連の安永竜夫日伯経済委員長らから提言を受け取り、その後市川国家安全保障局長や坂田官房副長官らと外交・安全保障案件を協議した。米中サミット前の調整作業が本格化している。"
+        },
+        {
+            "title": "クアッド外相会合、5月下旬にインドで開催へ 茂木外相の出席調整 鉱物供給網が議題",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUA092BK0Z00C26A5000000/",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "日米豪印4カ国の枠組み「クアッド」の外相会合が5月下旬にインドで開催される方向となった。日本は茂木敏充外相の出席を調整中で、レアアースなど重要鉱物の対中依存低減や対中安保協力が議題となる見通し。2025年7月のワシントン会合以来の開催となる。"
+        },
+        {
+            "title": "作家・鈴木光司さん死去 68歳 「リング」「らせん」でJホラーの世界的ブームけん引",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUD092EE0Z00C26A5000000/",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "new",
+            "summary": "ホラー小説「リング」「らせん」「ループ」三部作で知られる作家・鈴木光司さんが8日、東京都内の病院で死去した。68歳。1990年代以降の日本ホラー（Jホラー）ブームを国際的にけん引し、「貞子」のキャラクターは映画化を通じて世界的に人気を博した。"
+        },
+        {
+            "title": "磐越道バス事故 逮捕の運転手、今年複数回事故 県警が経緯捜査 「曲がりきれず」と供述",
+            "source": "日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXZQOUD090QK0Z00C26A5000000/",
+            "time": "数時間前",
+            "category": "jp",
+            "tag": "update",
+            "summary": "磐越道バス事故で過失致死傷容疑で逮捕・送検された若山哲夫容疑者（68）が、2026年に入ってから複数回の事故を起こしていたことが福島県警の調べで判明した。容疑者は「曲がりきれず」「速度の見極めが甘かった」と供述しており、居眠りは否定している。"
+        },
+        {
+            "title": "ロシア、対独戦勝80周年式典を縮小開催 ウクライナの攻撃警戒で戦車・ミサイル登場せず",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "new",
+            "summary": "ロシアは9日、モスクワの赤の広場で対独戦勝80周年の戦勝記念パレードを縮小規模で開催した。ウクライナの攻撃を警戒し約20年ぶりに戦車・ミサイルなど重火器が姿を消し、戦闘機の編隊飛行のみが実施された。プーチン大統領は「我々の勝利は常にある」と演説し北朝鮮兵も参列した。"
+        },
+        {
+            "title": "イラン戦争最新情勢 イスラエルがレバノン空爆で23人死亡 米はイランの停戦回答待つ",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "update",
+            "summary": "イスラエルが米国仲介の停戦下にもかかわらずレバノンへの空爆を激化させ、9日までに少なくとも23人が死亡した。並行して米国はイランの停戦提案への回答を待ち、ホルムズ海峡では米イラン海軍間の散発的衝突が継続。停戦崩壊リスクが高まっている。"
+        },
+        {
+            "title": "イラン、2026年W杯参加に10条件提示 安全保障とビザ・国旗・国歌の尊重を要求",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns",
+            "time": "数時間前",
+            "category": "world",
+            "tag": "new",
+            "summary": "イラン・サッカー協会のタージ会長は、6月開幕の2026年W杯参加にあたり米国・メキシコ・カナダの開催国に10条件を提示。ビザ発給、国旗・国歌・スタッフ尊重、空港・ホテル・スタジアムへの厳重警備などを求めた。米国との戦争継続中で参加可否は依然不透明。"
+        },
+        {
+            "title": "ドイツ副首相、対トランプ政権で新同盟模索 EU・カナダ・英国との連携強化を提唱",
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-08/germany-seeks-new-alliances-to-counter-trump-dominated-world",
+            "time": "約1日前",
+            "category": "world",
+            "tag": "new",
+            "summary": "ドイツのクリンクバイル副首相兼財務相は、米トランプ政権の独走に対抗するためEUとカナダ・英国などの志を同じくする国々との緊密な連携強化を呼び掛けた。70年以上続いた西側主導の安保・通商秩序が崩壊したとの危機感が広がり、欧州主導での新国際秩序構築の議論が加速している。"
+        }
+    ]
+}
